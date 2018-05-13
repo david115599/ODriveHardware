@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=Robot Controller.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Imported Arduino_MEGA_2560-Rev3.PrjPcb\Arduino_MEGA_2560-Rev3.PrjPcb
+Record=SubProject|SourceDocument=Robot Controller.MbsDoc|ProjectPath=Imported Arduino_MEGA_2560-Rev3.PrjPcb\Arduino_MEGA_2560-Rev3.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Robot Controller.MbsDoc|Kind=Multi-board Schematic Module|Designator=11|Source=v3\two_ax_PCB.PrjPcb
+Record=SubProject|SourceDocument=Robot Controller.MbsDoc|ProjectPath=v3\two_ax_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Robot Controller.MbsDoc|Kind=Multi-board Schematic Module|Designator=8|Source=v3\two_ax_PCB.PrjPcb
+Record=SubProject|SourceDocument=Robot Controller.MbsDoc|ProjectPath=v3\two_ax_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Robot Controller.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=v3\two_ax_PCB.PrjPcb
+Record=SubProject|SourceDocument=Robot Controller.MbsDoc|ProjectPath=v3\two_ax_PCB.PrjPcb

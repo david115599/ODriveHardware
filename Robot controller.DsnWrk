@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Robot Controller.PrjMbd
+[Project2]
+ProjectPath=v3\two_ax_PCB.PrjPcb
+[Project3]
+ProjectPath=Imported Arduino_MEGA_2560-Rev3.PrjPcb\Arduino_MEGA_2560-Rev3.PrjPcb

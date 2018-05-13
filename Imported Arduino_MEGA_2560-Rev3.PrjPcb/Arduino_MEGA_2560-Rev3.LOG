@@ -1,0 +1,28 @@
+Importer Log Report
+Project : Arduino_MEGA_2560-Rev3.PrjPcb
+
+Section : Analyze Document - C:\Users\David Bershadsky\Downloads\arduino-mega2560_R3-reference-design\Arduino_MEGA_2560-Rev3.brd
+    Analyzing data of C:\Users\David Bershadsky\Downloads\arduino-mega2560_R3-reference-design\Arduino_MEGA_2560-Rev3.brd
+    Load settings
+    Load layers 105
+    Load Library "rcl"
+    Load Packages 2
+    Load Library "diode"
+    Load Packages 2
+    Load Library "led"
+    Load Packages 1
+    Load Library "linear"
+    Load Packages 2
+    Load Library "SmartPrj"
+    Load Packages 17
+    Load Library "zetex"
+    Load Packages 1
+    Load Library "jumper"
+    Load Packages 1
+    Load Library "wuerth-elektronik"
+    Load Packages 1
+    Load Library "varistor"
+    Load Packages 1
+    Load Library "resistor-dil"
+    Load Packages 2
+EndSection
