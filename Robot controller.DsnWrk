@@ -8,3 +8,5 @@ ProjectPath=Imported Arduino_MEGA_2560-Rev3.PrjPcb\Arduino_MEGA_2560-Rev3.PrjPcb
 ProjectPath=v3\two_ax_PCB.PrjPcb
 [Project4]
 ProjectPath=..\COMP3.PrjPcb
+[Project5]
+ProjectPath=..\KVM\KVM.PrjPCB
